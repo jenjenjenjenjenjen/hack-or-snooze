@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../Downloads/css-mocks"
+		},
+		{
+			"path": "../../../Downloads/exercises "
+		},
+		{
+			"path": "../../../Downloads/java"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "css-mocks"
+	}
+}
